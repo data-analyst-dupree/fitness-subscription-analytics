@@ -1,5 +1,8 @@
 # Fitness-Subscription-Analytics
 
+## Overview:
+This project focuses on subscription-based revenue for a fitness company by analyzing when customers cancel subscriptions with a cohort matrix, looking at future projected revenue with a revenue forecast, and finally comparing customer acquisition cost with lifetime value in a CAC vs. LTV line chart. 
+
 ## Customer Cohort Analysis:
 New customer count is steadily rising from month to month. However, there is a trend around the 3rd month since purchase marker. It seems that almost 50% of customers cancel their subscriptions after only 3 months. 
 
